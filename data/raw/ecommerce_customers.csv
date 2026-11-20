@@ -1,0 +1,509 @@
+Customer_ID,Gender,Age,City_Tier,Preferred_Device,Acquisition_Channel,Last_Purchase_Days_Ago,Total_Orders,Total_Spend,Discount_Orders_Pct,Return_Rate_Pct,Avg_Rating_Given
+C10001,Female,35.0,Tier 1,Desktop,Paid Ads,113.0,5,4976.0,50.3,4.0,3.6
+C10002,Male,37.0,Tier 3,Mobile,Referral,12.0,2,1332.0,27.4,9.5,3.6
+C10003,Female,24.0,Tier 2,Desktop,Organic,83.0,3,3049.0,49.7,0.0,4.0
+C10004,Female,32.0,Tier 1,Mobile,Email,265.0,7,6399.0,9.8,12.2,4.2
+C10005,Male,18.0,Tier 2,Mobile,Paid Ads,20.0,20,26678.0,17.7,2.3,4.3
+C10006,Female,34.0,Tier 3,Mobile,Organic,15.0,4,1409.0,41.0,10.2,4.0
+C10007,Male,39.0,Tier 2,Mobile,Organic,25.0,8,8590.0,0.0,4.9,3.2
+C10008,Male,29.0,Tier 2,Tablet,Organic,48.0,2,300.0,34.3,6.4,4.4
+C10009,Male,48.0,Tier 3,Mobile,Paid Ads,10.0,37,44723.0,16.6,3.5,4.0
+C10010,Female,24.0,Tier 1,Desktop,Social Media,8.0,2,863.0,36.8,7.0,4.7
+C10011,Female,34.0,Tier 3,Desktop,Email,10.0,2,1748.0,15.6,19.3,3.6
+C10012,Male,32.0,Tier 1,Mobile,Social Media,94.0,6,-2500.0,42.6,16.3,
+C10013,Female,31.0,Tier 2,Mobile,Paid Ads,159.0,9,13398.0,35.3,10.1,4.0
+C10014,Female,31.0,Tier 2,Mobile,Paid Ads,41.0,3,3552.0,60.2,7.8,4.8
+C10015,Male,33.0,Tier 2,Mobile,Referral,10.0,3,2302.0,35.1,13.1,4.1
+C10016,Female,40.0,Tier 2,Desktop,Referral,47.0,13,47850.0,21.2,14.8,3.9
+C10017,Female,,Tier 2,Mobile,Organic,294.0,5,3588.0,30.6,3.0,3.5
+C10018,Female,32.0,Tier 1,Desktop,Email,11.0,25,17714.0,10.8,7.5,5.0
+C10019,Female,39.0,Tier 1,Mobile,Paid Ads,89.0,4,4548.0,42.3,0.0,3.4
+C10020,Male,26.0,Tier 1,Mobile,Referral,56.0,4,1976.0,45.6,14.7,3.6
+C10021,Male,39.0,Tier 2,Desktop,Email,45.0,5,4026.0,79.4,20.4,4.3
+C10022,Female,25.0,Tier 1,Mobile,Social Media,10.0,2,1922.0,23.8,8.5,2.9
+C10023,Male,42.0,Tier 1,Desktop,Organic,40.0,6,6094.0,30.2,0.0,4.8
+C10024,Male,52.0,Tier 3,Mobile,Social Media,82.0,6,5545.0,24.6,11.7,4.4
+C10025,Female,31.0,Tier 1,Tablet,Organic,131.0,5,3866.0,38.8,2.6,4.5
+C10026,Male,18.0,Tier 1,Desktop,Referral,14.0,8,21031.0,,4.0,4.3
+C10027,Male,27.0,Tier 1,Desktop,Organic,5.0,2,2001.0,34.0,11.8,3.9
+C10028,Female,43.0,Tier 1,Mobile,Social Media,16.0,17,22526.0,54.6,9.5,
+C10029,Male,37.0,Tier 2,Desktop,Email,22.0,21,19672.0,23.9,5.1,3.9
+C10030,Male,34.0,Tier 1,Mobile,Organic,233.0,7,3959.0,52.8,4.1,3.4
+C10031,male,41.0,Tier 1,Desktop,Paid Ads,68.0,6,3750.0,44.7,8.8,4.3
+C10032,Male,36.0,Tier 3,Mobile,Social Media,76.0,2,2368.0,34.8,5.5,4.5
+C10033,Male,43.0,Tier 3,Mobile,Paid Ads,22.0,2,2018.0,,1.3,
+C10034,Male,,Tier 2,Mobile,Organic,1.0,1,812.0,78.7,6.0,4.2
+C10035,Female,46.0,Tier 3,Mobile,Organic,3.0,3,4498.0,20.3,10.0,4.6
+C10036,Male,35.0,Tier 3,Mobile,Paid Ads,7.0,9,32983.0,40.4,6.9,3.8
+C10037,Female,40.0,Tier 1,Desktop,Social Media,31.0,15,17434.0,21.5,0.0,3.7
+C10038,Male,29.0,Tier 2,Mobile,Social Media,27.0,1,516.0,67.1,13.9,4.3
+C10039,Male,27.0,Tier 2,Desktop,Organic,19.0,10,40688.0,51.0,0.0,3.8
+C10040,Female,47.0,Tier 1,Mobile,Paid Ads,214.0,1,1155.0,22.8,5.3,4.2
+C10041,Female,150.0,Tier 1,Desktop,Paid Ads,7.0,3,2135.0,44.2,4.3,3.4
+C10042,Female,39.0,Tier 1,Desktop,Organic,51.0,6,6244.0,39.6,8.9,3.5
+C10043,Male,33.0,Tier 2,Mobile,Social Media,83.0,2,1969.0,25.7,11.4,4.4
+C10044,Female,27.0,Tier 2,Desktop,Paid Ads,4.0,2,946.0,48.6,14.8,4.5
+C10045,Female,32.0,Tier 2,Desktop,Paid Ads,83.0,3,1588.0,42.0,3.7,3.4
+C10046,Male,45.0,Tier 1,Desktop,Email,91.0,5,3483.0,38.9,11.5,4.4
+C10047,Male,37.0,Tier 1,Mobile,Paid Ads,24.0,2,1819.0,34.2,9.2,3.7
+C10048,Female,18.0,Tier 2,Mobile,Social Media,14.0,1,1041.0,42.8,0.0,4.0
+C10049,Male,30.0,Tier 2,Desktop,Organic,168.0,5,7044.0,39.1,19.4,4.9
+C10050,Female,48.0,Tier 3,Mobile,Organic,5.0,8,12022.0,36.1,0.0,4.5
+C10051,Female,30.0,Tier 3,Desktop,Organic,63.0,10,21442.0,23.5,10.5,4.5
+C10052,Male,18.0,Tier 3,Mobile,Referral,12.0,20,21050.0,65.5,10.3,5.0
+C10053,Male,49.0,Tier 3,Desktop,Referral,37.0,6,5887.0,16.1,9.7,3.6
+C10054,Male,,Tier 3,Mobile,Organic,110.0,8,12926.0,42.7,5.0,3.4
+C10055,Male,31.0,Tier 2,Mobile,Organic,,4,3258.0,29.2,13.0,3.6
+C10056,Male,29.0,tier 1,Tablet,Paid Ads,88.0,2,1782.0,66.7,0.0,3.8
+C10057,Female,42.0,Tier 1,Desktop,Social Media,9.0,4,3391.0,18.7,7.6,2.6
+C10058,Male,27.0,Tier 1,Desktop,Social Media,300.0,3,3529.0,21.8,4.6,3.9
+C10059,Female,42.0,Tier 1,Tablet,Social Media,18.0,17,19454.0,,3.9,3.7
+C10060,Male,37.0,Tier 1,Mobile,Email,27.0,20,13540.0,40.8,10.6,4.5
+C10061,Male,34.0,Tier 3,Mobile,Organic,199.0,3,2692.0,10.3,14.5,4.2
+C10062,Male,33.0,Tier 1,Mobile,Social Media,11.0,1,415.0,26.4,5.9,3.6
+C10063,Female,30.0,Tier 3,Mobile,Social Media,229.0,4,922.0,0.0,12.7,4.4
+C10064,Male,41.0,Tier 2,Mobile,Paid Ads,94.0,6,4029.0,39.3,8.3,4.4
+C10065,Male,24.0,Tier 2,Desktop,Email,121.0,9,9943.0,26.0,2.6,3.5
+C10066,Female,18.0,Tier 2,Mobile,Organic,343.0,7,7814.0,8.2,6.5,3.7
+C10067,Female,38.0,Tier 1,Mobile,Social Media,190.0,8,9500.0,54.5,6.2,2.7
+C10068,Male,38.0,Tier 2,Mobile,Social Media,22.0,1,769.0,11.5,3.8,3.3
+C10069,Female,36.0,Tier 1,Mobile,Email,10.0,27,39814.0,49.3,10.6,3.6
+C10070,Male,36.0,Tier 3,Mobile,Paid Ads,8.0,2,1988.0,22.4,9.4,
+C10071,Male,29.0,Tier 1,Mobile,Paid Ads,21.0,16,30780.0,63.8,0.0,3.4
+C10072,Female,39.0,Tier 1,Mobile,Referral,5.0,1,204.0,48.5,0.0,3.7
+C10073,Male,32.0,Tier 2,Mobile,Referral,41.0,3,2399.0,16.9,10.5,3.3
+C10074,Male,28.0,Tier 2,Desktop,Paid Ads,42.0,11,30563.0,18.5,3.1,4.1
+C10075,Female,29.0,Tier 2,Mobile,Referral,14.0,28,23968.0,45.9,9.8,4.3
+C10076,Male,50.0,Tier 2,Desktop,Organic,5.0,3,2501.0,30.3,12.7,4.2
+C10077,Female,18.0,Tier 1,Mobile,Social Media,17.0,2,2221.0,32.0,0.4,4.0
+C10078,Female,36.0,Tier 2,Mobile,Referral,138.0,6,5621.0,57.9,0.0,3.1
+C10079,Female,18.0,Tier 1,Mobile,Paid Ads,127.0,1,1206.0,21.5,18.0,3.6
+C10080,Female,31.0,Tier 1,Tablet,Paid Ads,59.0,3,2478.0,36.6,10.1,3.8
+C10081,Female,28.0,Tier 1,Mobile,Email,268.0,1,551.0,52.2,5.5,3.8
+C10082,Female,18.0,Tier 1,Mobile,Referral,5.0,3,2954.0,49.6,2.4,4.0
+C10083,Male,36.0,Tier 1,Mobile,Referral,93.0,3,1710.0,32.1,4.9,4.9
+C10084,Male,29.0,Tier 2,Desktop,Paid Ads,19.0,22,27218.0,29.8,0.9,4.5
+C10085,Female,18.0,Tier 1,Mobile,Email,13.0,24,27349.0,3.7,13.3,3.4
+C10086,Female,40.0,Tier 1,Mobile,Organic,23.0,27,18766.0,16.0,3.3,4.4
+C10087,Male,,Tier 2,Desktop,Paid Ads,3.0,7,8029.0,40.7,14.6,4.4
+C10088,Female,45.0,Tier 1,Mobile,Paid Ads,4.0,1,930.0,32.5,5.6,3.5
+C10089,Male,35.0,Tier 2,Mobile,Referral,24.0,33,40559.0,36.3,1.7,4.5
+C10090,Female,32.0,Tier 3,Mobile,Email,178.0,3,3010.0,53.7,5.4,3.9
+C10091,FEMALE,44.0,Tier 1,Mobile,Social Media,12.0,16,25795.0,13.6,0.0,3.2
+C10092,Male,47.0,Tier 3,Tablet,Social Media,307.0,9,6514.0,30.7,7.3,4.3
+C10093,Male,42.0,Tier 1,Mobile,Paid Ads,19.0,3,3098.0,38.4,7.0,4.1
+C10094,Male,24.0,Tier 1,Mobile,Paid Ads,22.0,3,3366.0,22.3,12.9,3.9
+C10095,Male,34.0,Tier 2,Mobile,Paid Ads,17.0,2,730.0,60.8,0.0,4.0
+C10096,Male,,Tier 2,Mobile,Organic,205.0,4,2464.0,51.4,15.0,3.6
+C10097,Male,18.0,Tier 3,Desktop,Paid Ads,25.0,4,5231.0,40.2,12.9,4.4
+C10098,Male,36.0,Tier 1,Mobile,Referral,18.0,30,33090.0,67.3,15.5,4.0
+C10099,Male,52.0,Tier 2,Desktop,Social Media,17.0,15,17989.0,8.0,7.7,4.1
+C10100,Male,38.0,Tier 1,Mobile,Referral,72.0,2,1674.0,34.9,14.1,4.2
+C10101,Male,45.0,Tier 1,Mobile,Paid Ads,68.0,9,9662.0,41.6,0.0,3.3
+C10102,Male,34.0,Tier 1,Mobile,Paid Ads,201.0,7,7093.0,18.5,12.3,3.5
+C10103,Male,31.0,Tier 3,Desktop,Organic,22.0,8,27154.0,40.4,3.4,2.7
+C10104,Male,35.0,Tier 1,Mobile,Paid Ads,48.0,2,1956.0,15.1,0.0,4.3
+C10105,Male,25.0,Tier 3,Mobile,Paid Ads,82.0,1,819.0,47.4,1.3,3.3
+C10106,Female,23.0,Tier 2,Desktop,Organic,100.0,7,7745.0,54.0,8.0,4.1
+C10107,Female,43.0,Tier 2,Mobile,Organic,12.0,1,575.0,39.9,3.1,4.2
+C10108,Female,44.0,Tier 2,Mobile,Social Media,30.0,14,61616.0,1.6,10.3,4.4
+C10109,Female,23.0,Tier 3,Mobile,Paid Ads,26.0,21,16568.0,17.6,0.0,3.3
+C10110,Female,41.0,Tier 1,Desktop,Paid Ads,60.0,5,3997.0,45.2,0.0,4.0
+C10111,Male,31.0,Tier 1,Mobile,Organic,7.0,2,1498.0,35.4,16.2,5.0
+C10112,Female,35.0,Tier 2,Mobile,Paid Ads,16.0,13,41842.0,0.0,13.4,5.0
+C10113,Female,36.0,Tier 1,Mobile,Paid Ads,14.0,2,1116.0,57.4,1.7,4.6
+C10114,Female,41.0,Tier 1,Mobile,Paid Ads,171.0,10,6514.0,37.5,8.0,4.2
+C10115,Female,33.0,Tier 1,Mobile,Social Media,1.0,11,12180.0,20.3,14.1,3.4
+C10116,Male,45.0,Tier 1,Mobile,Organic,71.0,5,5768.0,52.9,10.5,4.4
+C10117,Female,35.0,Tier 1,Mobile,Email,1.0,6,7442.0,22.8,8.9,3.9
+C10118,Female,38.0,Tier 1,Mobile,Organic,36.0,4,2647.0,22.6,14.6,4.3
+C10119,Male,25.0,Tier 3,Desktop,Paid Ads,5.0,2,2656.0,41.5,3.6,3.6
+C10120,Female,51.0,Tier 1,Mobile,Organic,310.0,5,7858.0,67.1,8.2,3.9
+C10121,Male,36.0, Tier 2 ,Mobile,Paid Ads,,11,10692.0,64.2,7.9,4.1
+C10122,Female,38.0,Tier 3,Desktop,Organic,208.0,7,13676.0,41.5,6.4,4.1
+C10123,Female,18.0,Tier 1,Desktop,Referral,24.0,18,24160.0,43.3,5.7,4.3
+C10124,Male,25.0,Tier 2,Mobile,Paid Ads,9.0,2,2345.0,49.2,8.4,3.7
+C10125,Female,43.0,Tier 2,Mobile,Social Media,15.0,24,26484.0,12.4,8.2,3.2
+C10126,Male,35.0,Tier 2,Mobile,Organic,220.0,7,2932.0,46.6,1.7,5.0
+C10127,Female,18.0,Tier 1,Mobile,Organic,17.0,1,467.0,21.8,12.8,5.0
+C10128,Female,41.0,Tier 1,Mobile,Paid Ads,14.0,23,21312.0,40.7,2.1,4.3
+C10129,Female,27.0,Tier 1,Mobile,Paid Ads,23.0,14,13976.0,30.9,6.7,3.2
+C10130,Female,45.0,Tier 2,Mobile,Paid Ads,165.0,6,6502.0,44.0,6.2,3.5
+C10131,Male,31.0,Tier 3,Mobile,Email,5.0,26,29010.0,37.1,10.1,4.3
+C10132,Male,34.0,Tier 2,Mobile,Social Media,13.0,1,847.0,0.0,0.0,4.8
+C10133,Male,43.0,Tier 2,Mobile,Email,187.0,6,5950.0,38.2,13.3,3.3
+C10134,Male,24.0,Tier 3,Mobile,Organic,14.0,3,1700.0,46.6,3.9,3.9
+C10135,Male,23.0,Tier 2,Desktop,Referral,130.0,3,3260.0,43.0,15.3,4.1
+C10136,Male,30.0,Tier 1,Desktop,Social Media,27.0,19,9017.0,33.2,5.1,4.5
+C10137,Male,39.0,Tier 3,Mobile,Social Media,19.0,3,2132.0,64.6,7.7,3.8
+C10138,Male,20.0,Tier 1,Mobile,Email,175.0,6,5439.0,40.6,19.5,3.1
+C10139,Female,18.0,Tier 1,Mobile,Social Media,101.0,4,2538.0,42.9,6.3,4.4
+C10140,Male,39.0,Tier 2,Mobile,Referral,20.0,13,15566.0,53.8,15.4,4.7
+C10141,Female,27.0,Tier 3,Desktop,Social Media,206.0,6,8859.0,41.5,8.2,4.0
+C10142,Male,28.0,Tier 1,Mobile,Organic,163.0,12,11188.0,18.8,10.5,4.2
+C10143,Male,18.0,Tier 2,Mobile,Social Media,32.0,5,2905.0,0.0,8.4,3.7
+C10144,Female,26.0,Tier 1,Mobile,Paid Ads,155.0,7,8167.0,26.4,13.1,3.5
+C10145,Male,32.0,Tier 1,Mobile,Email,7.0,3,3742.0,48.7,3.9,4.6
+C10146,Male,40.0,Tier 1,Mobile,Referral,47.0,14,62362.0,28.6,2.1,4.2
+C10147,Female,25.0,Tier 2,Mobile,Organic,1.0,2,1280.0,49.4,4.2,4.3
+C10148,Male,47.0,Tier 3,Tablet,Organic,207.0,4,3801.0,37.7,8.6,4.9
+C10149,Male,26.0,Tier 1,Mobile,Organic,27.0,2,2048.0,58.2,6.7,3.4
+C10150,Female,26.0,Tier 1,Mobile,Paid Ads,13.0,22,24233.0,29.7,12.3,3.7
+C10151,Male,46.0,Tier 1,Mobile,Organic,83.0,7,8833.0,43.4,15.8,4.1
+C10152,Female,34.0,Tier 1,Mobile,Social Media,79.0,6,3374.0,44.1,2.1,3.7
+C10153,Male,27.0,Tier 2,Mobile,Social Media,14.0,28,36862.0,62.0,3.6,4.5
+C10154,Female,31.0,Tier 2,Mobile,Referral,213.0,9,10325.0,4.3,0.0,3.9
+C10155,Female,44.0,Tier 2,Desktop,Organic,27.0,24,24266.0,26.7,20.2,3.4
+C10156,Female,45.0,Tier 1,Mobile,Paid Ads,220.0,1,1115.0,50.3,9.8,4.0
+C10157,Female,25.0,Tier 2,Mobile,Organic,1.0,1,1036.0,62.8,10.9,4.1
+C10158,Male,32.0,Tier 1,Mobile,Referral,229.0,3,2359.0,39.3,0.0,4.6
+C10159,Female,33.0,Tier 1,Mobile,Organic,111.0,4,5643.0,29.7,8.0,4.2
+C10160,Male,23.0,Tier 3,Mobile,Organic,70.0,6,7525.0,48.6,11.1,4.3
+C10161,Female,31.0,Tier 2,Desktop,Organic,16.0,16,17161.0,50.6,6.5,4.2
+C10162,Female,32.0,Tier 3,Mobile,Referral,69.0,2,1572.0,28.5,14.5,3.9
+C10163,Male,42.0,Tier 3,Mobile,Organic,14.0,16,56388.0,40.9,21.9,3.6
+C10164,Female,43.0,Tier 2,Desktop,Social Media,12.0,21,24271.0,56.2,2.3,4.2
+C10165,Male,29.0,Tier 3,Mobile,Social Media,237.0,3,2063.0,69.0,1.9,3.8
+C10166,Female,30.0,Tier 1,Mobile,Referral,21.0,2,950.0,48.4,2.7,5.0
+C10167,Female,38.0,Tier 1,Mobile,Organic,83.0,6,2804.0,35.8,17.6,4.8
+C10168,Male,27.0,Tier 1,Mobile,Organic,77.0,6,5662.0,34.0,14.3,4.4
+C10169,Female,37.0,Tier 1,Mobile,Paid Ads,17.0,1,999.0,45.0,7.2,4.2
+C10170,Female,31.0,Tier 1,Desktop,Organic,61.0,4,4271.0,32.9,8.2,3.9
+C10171,Male,23.0,Tier 1,Desktop,Social Media,24.0,4,5178.0,38.4,3.1,3.2
+C10172,Female,23.0,Tier 2,Desktop,Paid Ads,193.0,7,8610.0,16.0,13.3,3.9
+C10173,Male,45.0,Tier 2,Tablet,Paid Ads,27.0,13,52996.0,58.3,5.7,4.1
+C10174,Female,31.0,Tier 2,Desktop,Organic,68.0,4,2986.0,14.5,6.4,4.1
+C10175,Male,47.0,Tier 1,Desktop,Social Media,21.0,22,26071.0,27.2,11.7,4.3
+C10176,Female,27.0,Tier 2,Desktop,Organic,22.0,20,25781.0,36.8,6.9,4.6
+C10177,Female,35.0,Tier 1,Desktop,Social Media,15.0,1,1333.0,70.8,6.6,3.6
+C10178,Male,54.0,Tier 1,Desktop,Organic,55.0,2,1177.0,27.4,8.1,3.6
+C10179,Male,22.0,Tier 1,Desktop,Email,39.0,5,3908.0,23.0,12.8,4.9
+C10180,Female,18.0,Tier 1,Mobile,Social Media,60.0,6,5610.0,25.1,17.9,4.5
+C10181,Female,44.0,Tier 1,Mobile,Organic,79.0,6,6024.0,64.9,11.5,3.8
+C10182,Male,25.0,Tier 3,Mobile,Organic,7.0,4,1220.0,0.0,12.8,3.9
+C10183,Male,32.0,Tier 2,Desktop,Paid Ads,202.0,6,7882.0,17.0,6.8,3.9
+C10184,Male,27.0,Tier 2,Mobile,Organic,22.0,2,1500.0,84.2,3.8,
+C10185,Female,34.0,Tier 1,Desktop,Organic,85.0,4,3399.0,45.6,11.9,4.3
+C10186,Male,23.0,Tier 3,Desktop,Referral,259.0,4,4967.0,15.1,9.0,5.0
+C10187,Female,30.0,Tier 2,Tablet,Social Media,17.0,1,1192.0,34.2,0.0,4.1
+C10188,Female,36.0,Tier 1,Mobile,Organic,22.0,23,20917.0,36.2,6.0,4.4
+C10189,Female,23.0,Tier 2,Desktop,Social Media,44.0,4,3943.0,50.2,7.5,3.0
+C10190,Male,26.0,Tier 2,Desktop,Organic,11.0,14,36831.0,68.1,4.9,3.7
+C10191,Male,29.0,Tier 1,Desktop,Email,64.0,5,7306.0,42.0,16.9,
+C10192,Female,19.0,Tier 1,Desktop,Organic,4.0,18,64888.0,25.3,10.9,4.2
+C10193,Female,28.0,Tier 2,Mobile,Social Media,19.0,23,27857.0,49.2,16.2,1.4
+C10194,Male,33.0,Tier 1,Mobile,Referral,65.0,8,5887.0,22.4,9.6,4.4
+C10195,Male,28.0,Tier 1,Mobile,Organic,26.0,18,19529.0,16.4,8.5,5.0
+C10196,Male,30.0,Tier 1,Tablet,Organic,4.0,25,36532.0,3.3,2.4,2.8
+C10197,Male,32.0,Tier 3,Mobile,Paid Ads,195.0,5,3328.0,6.8,8.1,4.9
+C10198,Male,26.0,Tier 1,Desktop,Referral,63.0,2,1244.0,18.9,8.1,2.3
+C10199,Female,38.0,Tier 1,Desktop,Paid Ads,28.0,17,92930.0,13.8,0.0,4.6
+C10200,Male,45.0,Tier 1,Mobile,Social Media,7.0,3,2919.0,40.6,4.8,4.0
+C10201,Female,28.0,Tier 3,Mobile,Referral,65.0,6,5193.0,13.4,6.1,2.6
+C10202,Male,36.0,Tier 2,Mobile,Referral,73.0,4,2002.0,0.0,10.5,4.3
+C10203,Male,30.0,Tier 3,Desktop,Paid Ads,107.0,8,7336.0,16.2,10.8,4.7
+C10204,Female,35.0,Tier 1,Mobile,Paid Ads,9.0,22,28572.0,26.5,4.5,4.2
+C10205,Male,46.0,Tier 1,Mobile,Social Media,17.0,18,25318.0,24.1,10.8,4.4
+C10206,Female,37.0,Tier 2,Desktop,Organic,49.0,14,58542.0,62.4,6.9,3.8
+C10207,Male,18.0,Tier 1,Mobile,Referral,27.0,29,36352.0,24.0,0.0,2.9
+C10208,Female,36.0,Tier 3,Desktop,Organic,236.0,8,5366.0,50.9,5.1,4.4
+C10209,Female,43.0,Tier 3,Mobile,Organic,22.0,14,12619.0,34.7,14.5,5.0
+C10210,Female,30.0,Tier 2,Mobile,Referral,278.0,9,13016.0,34.2,0.0,4.7
+C10211,Male,41.0,Tier 3,Mobile,Paid Ads,184.0,3,2784.0,20.0,8.7,
+C10212,Male,26.0,Tier 2,Mobile,Organic,206.0,6,8041.0,33.9,17.5,3.1
+C10213,Male,19.0,Tier 1,Mobile,Organic,20.0,13,36503.0,21.2,3.4,3.5
+C10214,Female,33.0,Tier 2,Desktop,Paid Ads,84.0,5,3313.0,38.1,8.0,3.0
+C10215,Male,18.0,Tier 1,Mobile,Referral,63.0,5,3912.0,30.7,0.2,4.0
+C10216,Male,30.0,Tier 3,Mobile,Organic,123.0,5,3945.0,18.0,17.8,4.2
+C10217,Male,44.0,Tier 1,Mobile,Organic,1.0,17,17582.0,52.9,7.5,3.1
+C10218,Male,18.0,Tier 1,Mobile,Paid Ads,8.0,30,31763.0,42.7,8.3,4.5
+C10219,Male,20.0,Tier 2,Desktop,Email,109.0,5,4297.0,26.9,16.1,4.4
+C10220,Male,23.0,Tier 1,Mobile,Organic,11.0,2,2831.0,37.6,12.0,3.7
+C10221,Male,31.0,Tier 1,Tablet,Email,1.0,1,737.0,33.5,2.7,3.9
+C10222,Female,29.0,Tier 2,Mobile,Referral,201.0,8,9135.0,19.4,4.1,2.8
+C10223,Male,45.0,Tier 1,Mobile,Organic,177.0,9,11782.0,36.3,11.0,3.8
+C10224,Male,41.0,Tier 2,Mobile,Referral,76.0,7,6427.0,23.8,4.3,4.0
+C10225,Female,36.0,Tier 1,Mobile,Social Media,8.0,3,2800.0,18.0,0.0,4.1
+C10226,Female,33.0,Tier 1,Desktop,Paid Ads,70.0,8,1898.0,5.8,7.7,4.2
+C10227,Male,36.0,Tier 1,Mobile,Paid Ads,1.0,15,15138.0,28.5,0.0,4.1
+C10228,Female,24.0,Tier 2,Mobile,Referral,185.0,1,704.0,45.2,17.7,3.8
+C10229,Female,40.0,Tier 3,Mobile,Referral,148.0,13,20027.0,22.5,9.1,4.2
+C10230,Female,22.0,Tier 1,Mobile,Referral,11.0,20,16254.0,80.4,2.6,4.6
+C10231,Female,40.0,Tier 3,Desktop,Email,1.0,21,17861.0,50.9,3.8,3.9
+C10232,Female,43.0,Tier 2,Tablet,Paid Ads,11.0,1,671.0,58.5,0.0,4.2
+C10233,Male,34.0,Tier 2,Desktop,Referral,74.0,6,5726.0,49.3,1.4,3.9
+C10234,Male,30.0,Tier 2,Desktop,Referral,121.0,9,6839.0,68.4,14.1,3.6
+C10235,Female,36.0,Tier 2,Desktop,Organic,89.0,5,2530.0,20.8,21.4,4.3
+C10236,Female,18.0,Tier 3,Mobile,Organic,61.0,6,6019.0,0.0,12.4,3.7
+C10237,Male,35.0,Tier 2,Desktop,Paid Ads,11.0,4,4809.0,27.0,7.4,4.2
+C10238,Male,31.0,Tier 2,Mobile,Referral,62.0,7,9334.0,45.0,5.4,4.0
+C10239,Female,32.0,Tier 1,Desktop,Organic,35.0,15,13026.0,37.7,2.3,3.8
+C10240,Male,38.0,Tier 1,Tablet,Social Media,30.0,16,12310.0,40.0,20.4,3.8
+C10241,Female,31.0,Tier 2,Mobile,Organic,55.0,6,4946.0,58.8,6.9,3.7
+C10242,Female,22.0,Tier 1,Desktop,Paid Ads,50.0,4,2688.0,41.9,20.7,3.0
+C10243,Female,31.0,Tier 1,Desktop,Social Media,12.0,21,77873.0,49.4,16.4,4.2
+C10244,Female,33.0,Tier 1,Mobile,Organic,253.0,5,4721.0,18.1,0.0,4.1
+C10245,Female,33.0,Tier 1,Mobile,Referral,,1,587.0,15.3,4.0,4.5
+C10246,Female,33.0,Tier 2,Desktop,Organic,16.0,1,551.0,64.1,4.0,3.7
+C10247,Female,41.0,Tier 2,Tablet,Email,279.0,6,8323.0,36.8,7.5,5.0
+C10248,Female,22.0,Tier 1,Mobile,Organic,15.0,3,1889.0,23.8,7.6,3.8
+C10249,Female,34.0,Tier 1,Mobile,Email,16.0,3,2181.0,23.8,26.0,3.5
+C10250,Male,44.0,Tier 1,Desktop,Social Media,16.0,3,2205.0,23.3,1.5,3.4
+C10251,Female,18.0,Tier 1,Mobile,Organic,133.0,2,2052.0,22.2,9.4,3.0
+C10252,Male,34.0,Tier 2,Mobile,Organic,80.0,3,2570.0,11.9,11.7,4.9
+C10253,Female,27.0,Tier 2,Mobile,Organic,17.0,3,4097.0,8.0,8.0,4.8
+C10254,Female,29.0,Tier 2,Mobile,Social Media,44.0,8,37428.0,31.5,8.7,4.4
+C10255,Male,24.0,Tier 2,Mobile,Referral,17.0,16,56761.0,24.3,1.7,3.5
+C10256,Male,30.0,Tier 3,Mobile,Paid Ads,58.0,1,807.0,54.9,8.6,5.0
+C10257,Male,49.0,Tier 2,Mobile,Paid Ads,23.0,7,8604.0,40.3,11.1,3.8
+C10258,Female,21.0,Tier 2,Desktop,Social Media,7.0,24,22048.0,39.8,10.0,3.8
+C10259,Male,21.0,Tier 2,Mobile,Paid Ads,,27,29440.0,21.6,11.4,4.9
+C10260,Male,20.0,Tier 1,Mobile,Social Media,304.0,5,6499.0,32.8,16.5,4.4
+C10261,Female,48.0,Tier 3,Mobile,Paid Ads,16.0,27,26682.0,41.5,13.6,5.0
+C10262,Female,28.0,Tier 1,Mobile,Social Media,69.0,5,3205.0,47.9,8.4,4.1
+C10263,Male,32.0,Tier 1,Mobile,Email,17.0,3,3234.0,33.3,1.0,3.8
+C10264,Male,28.0,Tier 3,Mobile,Paid Ads,30.0,31,31194.0,54.4,4.4,3.6
+C10265,Female,24.0,Tier 2,Mobile,Organic,81.0,4,3423.0,35.1,6.7,2.9
+C10266,Female,30.0,Tier 1,Mobile,Organic,9.0,32,38110.0,49.3,9.5,3.8
+C10267,Female,54.0,Tier 1,Mobile,Social Media,10.0,3,746.0,26.2,5.1,
+C10268,Male,45.0,Tier 1,Mobile,Paid Ads,1.0,27,30108.0,2.4,2.4,
+C10269,Male,24.0,Tier 2,Desktop,Email,18.0,14,15319.0,39.8,0.9,4.0
+C10270,Male,38.0,Tier 1,Desktop,Social Media,35.0,27,30846.0,48.1,0.0,3.4
+C10271,Female,25.0,Tier 3,Mobile,Paid Ads,11.0,20,11354.0,45.4,6.6,4.1
+C10272,Male,18.0,Tier 3,Mobile,Referral,18.0,27,19065.0,42.6,0.0,4.6
+C10273,Male,41.0,Tier 2,Mobile,Organic,8.0,15,12880.0,28.7,2.0,4.3
+C10274,Female,42.0,Tier 2,Mobile,Referral,203.0,1,1184.0,20.5,5.6,4.1
+C10275,Female,41.0,Tier 1,Mobile,Organic,245.0,5,1279.0,44.9,0.0,3.5
+C10276,Female,28.0,Tier 1,Mobile,Social Media,4.0,3,450.0,42.7,10.3,4.5
+C10277,Male,30.0,Tier 2,Mobile,Email,9.0,1,1141.0,24.9,12.4,2.1
+C10278,Female,39.0,Tier 1,Mobile,Referral,159.0,7,8187.0,55.0,4.7,4.2
+C10279,Male,36.0,Tier 1,Desktop,Referral,125.0,5,4720.0,19.1,5.4,5.0
+C10280,Male,28.0,Tier 1,Desktop,Paid Ads,25.0,7,4619.0,24.5,11.2,3.1
+C10281,Female,18.0,Tier 1,Desktop,Referral,9.0,22,15604.0,64.5,3.7,3.9
+C10282,Male,33.0,Tier 1,Mobile,Social Media,28.0,16,59281.0,50.6,3.3,4.0
+C10283,Female,42.0,Tier 2,Mobile,Social Media,1.0,12,48233.0,28.6,15.2,3.7
+C10284,Female,21.0,Tier 3,Mobile,Organic,1.0,8,32909.0,40.2,13.3,4.6
+C10285,Female,38.0,Tier 2,Desktop,Organic,216.0,7,10905.0,37.8,11.6,4.3
+C10286,Male,35.0,Tier 3,Mobile,Social Media,16.0,3,5140.0,0.0,13.6,4.1
+C10287,Male,39.0,Tier 1,Mobile,Organic,13.0,17,20518.0,18.7,0.0,4.5
+C10288,Male,40.0,Tier 3,Mobile,Social Media,16.0,1,590.0,34.1,16.1,4.0
+C10289,Male,26.0,Tier 2,Desktop,Referral,339.0,7,5462.0,28.6,10.4,5.0
+C10290,Male,18.0,Tier 1,Mobile,Email,24.0,21,21772.0,39.4,14.1,4.1
+C10291,Male,27.0,Tier 3,Mobile,Organic,87.0,2,1876.0,55.3,10.3,4.1
+C10292,Female,40.0,Tier 1,Mobile,Email,34.0,25,25149.0,29.2,8.3,3.0
+C10293,Female,27.0,Tier 1,Mobile,Organic,55.0,4,3146.0,16.0,6.3,3.7
+C10294,Female,26.0,Tier 1,Mobile,Paid Ads,11.0,27,18001.0,40.8,10.2,4.7
+C10295,Male,18.0,Tier 1,Mobile,Referral,96.0,4,3777.0,29.1,6.1,3.2
+C10296,Male,48.0,Tier 1,Mobile,Organic,36.0,8,9291.0,32.2,13.2,2.7
+C10297,Male,39.0,Tier 2,Desktop,Organic,99.0,2,2115.0,29.7,0.0,4.0
+C10298,Male,39.0,Tier 3,Mobile,Organic,82.0,2,1688.0,75.4,4.8,4.8
+C10299,Male,41.0,Tier 1,Desktop,Paid Ads,81.0,6,5366.0,0.0,20.3,4.0
+C10300,Female,37.0,Tier 2,Mobile,Referral,217.0,10,13678.0,28.0,4.2,3.8
+C10301,Male,30.0,Tier 1,Desktop,Organic,1.0,4,3235.0,34.9,6.6,2.9
+C10302,Male,31.0,Tier 3,Mobile,Organic,1.0,23,32480.0,20.9,2.7,4.3
+C10303,Female,28.0,Tier 1,Mobile,Social Media,135.0,7,5077.0,51.2,10.0,4.4
+C10304,Female,56.0,Tier 1,Mobile,Organic,160.0,10,8372.0,49.6,3.6,2.9
+C10305,Female,37.0,Tier 2,Tablet,Social Media,84.0,1,1316.0,34.1,6.9,4.7
+C10306,Male,28.0,Tier 2,Mobile,Email,17.0,2,2145.0,30.1,13.1,4.5
+C10307,Female,36.0,Tier 2,Desktop,Referral,1.0,3,2408.0,33.0,3.8,4.7
+C10308,Male,23.0,Tier 2,Desktop,Referral,188.0,5,4129.0,33.1,12.7,4.4
+C10309,Male,46.0,Tier 2,Mobile,Paid Ads,35.0,13,51431.0,,12.9,4.4
+C10310,Female,26.0,Tier 1,Mobile,Referral,15.0,25,24882.0,31.6,14.3,4.3
+C10311,Female,37.0,Tier 1,Mobile,Organic,30.0,1,1278.0,39.5,8.8,4.5
+C10312,Male,42.0,Tier 1,Mobile,Organic,23.0,1,1569.0,48.6,27.4,2.9
+C10313,Female,35.0,Tier 1,Mobile,Social Media,40.0,16,56314.0,12.9,14.3,3.1
+C10314,Male,33.0,Tier 1,Mobile,Organic,10.0,2,2034.0,16.1,9.9,3.6
+C10315,Male,32.0,Tier 2,Mobile,Referral,23.0,2,1253.0,3.5,2.7,3.9
+C10316,Male,31.0,Tier 1,Mobile,Social Media,19.0,3,3289.0,50.6,7.4,4.2
+C10317,Female,27.0,Tier 2,Desktop,Email,18.0,2,1243.0,39.5,16.6,4.2
+C10318,Male,28.0,Tier 2,Mobile,Paid Ads,148.0,1,1071.0,44.1,18.3,
+C10319,Female,45.0,Tier 2,Desktop,Paid Ads,11.0,2,300.0,9.3,16.9,4.7
+C10320,Male,31.0,Tier 2,Mobile,Social Media,33.0,7,4787.0,67.1,12.7,3.5
+C10321,Female,25.0,Tier 1,Mobile,Organic,81.0,2,2419.0,24.0,0.5,4.1
+C10322,Female,27.0,Tier 1,Mobile,Paid Ads,191.0,7,11884.0,38.0,10.9,3.5
+C10323,Male,42.0,Tier 2,Mobile,Social Media,24.0,2,1444.0,50.4,0.6,3.9
+C10324,Male,38.0,Tier 2,Mobile,Email,180.0,8,7747.0,17.2,0.0,4.2
+C10325,Male,37.0,Tier 1,Desktop,Social Media,58.0,8,6572.0,25.2,9.4,2.0
+C10326,Female,30.0,Tier 1,Mobile,Organic,338.0,6,9214.0,38.2,11.1,5.0
+C10327,Male,37.0,Tier 2,Mobile,Paid Ads,81.0,7,4682.0,86.4,13.4,4.3
+C10328,Female,26.0,Tier 2,Mobile,Social Media,149.0,7,9076.0,40.4,11.0,3.6
+C10329,Male,30.0,Tier 1,Mobile,Organic,202.0,2,1184.0,63.9,11.2,5.0
+C10330,Female,41.0,Tier 1,Mobile,Paid Ads,1.0,1,933.0,56.7,2.1,3.8
+C10331,Female,40.0,Tier 3,Mobile,Organic,104.0,5,1424.0,41.6,7.4,4.1
+C10332,Female,23.0,Tier 1,Mobile,Organic,22.0,11,54639.0,17.2,0.0,3.7
+C10333,Female,24.0,Tier 3,Mobile,Paid Ads,113.0,5,7559.0,54.1,0.0,5.0
+C10334,Male,33.0,Tier 1,Mobile,Organic,83.0,6,5272.0,8.0,12.4,3.9
+C10335,Female,48.0,Tier 2,Tablet,Social Media,18.0,27,24236.0,63.8,3.5,4.1
+C10336,Male,18.0,Tier 1,Mobile,Organic,253.0,2,2197.0,38.6,13.2,4.7
+C10337,Male,35.0,Tier 1,Mobile,Social Media,17.0,18,19698.0,0.0,14.7,4.4
+C10338,Female,20.0,Tier 3,Tablet,Organic,51.0,3,2285.0,28.9,4.3,4.0
+C10339,Female,26.0,Tier 2,Mobile,Referral,4.0,24,19499.0,,11.5,4.7
+C10340,Female,29.0,Tier 3,Mobile,Organic,91.0,3,2125.0,30.7,4.0,5.0
+C10341,Male,28.0,Tier 1,Desktop,Paid Ads,9.0,30,35477.0,47.9,0.0,4.2
+C10342,Male,27.0,Tier 3,Desktop,Paid Ads,64.0,6,1939.0,19.7,8.7,4.1
+C10343,Male,32.0,Tier 3,Desktop,Organic,69.0,9,7948.0,11.5,5.2,4.1
+C10344,Female,27.0,Tier 2,Mobile,Paid Ads,204.0,8,10149.0,33.7,5.4,4.8
+C10345,Male,19.0,Tier 1,Tablet,Referral,10.0,2,1805.0,35.6,19.9,3.6
+C10346,Male,39.0,Tier 2,Mobile,Email,49.0,8,6170.0,28.7,0.0,3.8
+C10347,Male,39.0,Tier 2,Tablet,Paid Ads,12.0,2,325.0,57.1,10.3,3.1
+C10348,Male,40.0,Tier 3,Desktop,Organic,21.0,11,35232.0,19.7,2.0,3.3
+C10349,Male,18.0,Tier 1,Desktop,Social Media,265.0,10,9489.0,40.6,13.4,3.7
+C10350,Male,35.0,Tier 1,Mobile,Social Media,1.0,26,32210.0,36.2,9.8,4.0
+C10351,Female,38.0,Tier 1,Mobile,Organic,219.0,9,5855.0,7.0,10.3,5.0
+C10352,Female,23.0,Tier 2,Mobile,Referral,35.0,16,20597.0,11.3,2.3,4.3
+C10353,Male,32.0,Tier 3,Mobile,Paid Ads,99.0,3,4365.0,35.2,3.4,3.5
+C10354,Female,31.0,Tier 1,Mobile,Social Media,184.0,9,9640.0,70.7,13.6,3.6
+C10355,Female,49.0,Tier 2,Desktop,Paid Ads,11.0,3,2487.0,45.4,18.6,4.8
+C10356,Male,49.0,Tier 3,Mobile,Paid Ads,93.0,4,4661.0,3.9,10.9,4.7
+C10357,Male,18.0,Tier 1,Mobile,Organic,82.0,2,1338.0,0.0,2.6,4.0
+C10358,Male,54.0,Tier 1,Mobile,Referral,53.0,4,2024.0,48.2,10.0,3.7
+C10359,Male,24.0,Tier 2,Mobile,Organic,162.0,4,4926.0,33.3,22.6,4.7
+C10360,Female,41.0,Tier 2,Mobile,Referral,249.0,6,5294.0,55.5,8.6,3.4
+C10361,Female,41.0,Tier 1,Mobile,Referral,74.0,3,1690.0,19.1,16.8,4.2
+C10362,Male,23.0,Tier 3,Desktop,Social Media,6.0,18,14564.0,41.3,3.6,5.0
+C10363,Female,36.0,Tier 2,Desktop,Organic,17.0,26,18284.0,50.2,7.7,4.1
+C10364,Male,31.0,Tier 3,Mobile,Organic,15.0,21,24893.0,26.9,11.7,3.5
+C10365,Female,37.0,Tier 3,Mobile,Paid Ads,199.0,2,1243.0,27.3,10.4,4.2
+C10366,Female,34.0,Tier 3,Mobile,Social Media,12.0,3,707.0,35.5,3.4,3.7
+C10367,Male,43.0,Tier 2,Desktop,Email,80.0,7,5682.0,44.8,3.1,3.2
+C10368,Male,33.0,Tier 1,Desktop,Paid Ads,233.0,4,3857.0,34.7,13.9,4.4
+C10369,Female,30.0,Tier 2,Mobile,Referral,1.0,1,1183.0,52.5,15.1,4.7
+C10370,Female,42.0,Tier 1,Desktop,Organic,40.0,4,2014.0,26.7,17.1,3.8
+C10371,Male,37.0,Tier 2,Mobile,Paid Ads,28.0,5,3338.0,11.1,18.8,3.8
+C10372,Male,39.0,Tier 1,Mobile,Organic,31.0,14,52144.0,70.6,8.8,3.4
+C10373,Male,26.0,Tier 2,Desktop,Social Media,14.0,4,2319.0,24.1,6.1,3.9
+C10374,Female,23.0,Tier 1,Mobile,Organic,12.0,3,3838.0,24.8,16.1,3.7
+C10375,Female,27.0,Tier 1,Mobile,Organic,1.0,20,28791.0,33.8,12.3,3.4
+C10376,Female,26.0,Tier 1,Mobile,Referral,20.0,23,24048.0,36.2,2.1,5.0
+C10377,Female,39.0,Tier 2,Mobile,Paid Ads,58.0,6,4721.0,28.0,1.8,4.3
+C10378,Female,41.0,Tier 2,Mobile,Organic,12.0,2,1393.0,34.7,11.0,4.3
+C10379,Female,31.0,Tier 1,Mobile,Organic,16.0,5,1835.0,34.3,6.9,4.5
+C10380,Male,45.0,Tier 3,Mobile,Paid Ads,80.0,3,2983.0,38.1,7.8,4.5
+C10381,Female,44.0,Tier 3,Mobile,Paid Ads,203.0,8,10821.0,0.0,14.4,3.8
+C10382,Male,34.0,Tier 1,Desktop,Organic,76.0,7,1847.0,68.9,12.6,4.2
+C10383,Male,25.0,Tier 2,Mobile,Social Media,118.0,6,6717.0,32.3,16.0,3.8
+C10384,Female,46.0,Tier 1,Desktop,Organic,2.0,1,944.0,45.5,0.0,4.3
+C10385,Female,31.0,Tier 1,Mobile,Social Media,12.0,2,2451.0,10.2,9.5,4.2
+C10386,Female,33.0,Tier 2,Mobile,Paid Ads,17.0,7,5964.0,26.5,12.2,3.8
+C10387,Male,29.0,Tier 1,Mobile,Organic,64.0,2,1952.0,22.9,0.0,3.2
+C10388,Female,24.0,Tier 3,Desktop,Organic,1.0,6,2862.0,61.5,4.1,4.1
+C10389,Female,19.0,Tier 3,Mobile,Organic,16.0,21,29240.0,24.5,3.0,3.9
+C10390,Male,38.0,Tier 3,Desktop,Organic,65.0,4,2893.0,48.6,8.1,2.9
+C10391,Male,25.0,Tier 2,Mobile,Paid Ads,276.0,8,7074.0,23.3,17.8,4.3
+C10392,Female,60.0,Tier 2,Mobile,Email,13.0,13,15563.0,26.9,20.1,4.6
+C10393,Male,22.0,Tier 3,Mobile,Referral,94.0,8,8309.0,30.6,3.1,5.0
+C10394,Female,21.0,Tier 1,Mobile,Paid Ads,343.0,3,2908.0,58.1,11.2,3.8
+C10395,Male,37.0,Tier 1,Mobile,Social Media,33.0,29,26852.0,1.0,11.4,3.7
+C10396,Male,46.0,Tier 2,Mobile,Social Media,14.0,2,1969.0,11.3,10.3,3.3
+C10397,Female,33.0,Tier 1,Mobile,Referral,,5,2252.0,0.0,10.4,4.1
+C10398,Male,37.0,Tier 1,Mobile,Organic,13.0,2,1664.0,15.4,9.8,4.1
+C10399,Female,18.0,Tier 1,Mobile,Organic,1.0,3,3028.0,20.4,18.1,3.5
+C10400,Female,26.0,Tier 2,Mobile,Paid Ads,6.0,2,900.0,5.9,14.6,3.9
+C10401,Male,22.0,Tier 1,Mobile,Organic,4.0,1,1269.0,21.8,1.6,2.8
+C10402,Female,18.0,Tier 1,Mobile,Paid Ads,51.0,6,4293.0,0.0,12.8,4.6
+C10403,Female,33.0,Tier 1,Mobile,Referral,77.0,5,5341.0,16.7,13.4,3.5
+C10404,Female,18.0,Tier 1,Mobile,Email,10.0,13,9809.0,56.6,9.9,4.0
+C10405,Female,20.0,Tier 3,Mobile,Organic,54.0,3,2858.0,42.3,14.8,3.1
+C10406,Female,27.0,Tier 1,Desktop,Paid Ads,56.0,10,4156.0,38.4,9.1,3.7
+C10407,Female,25.0,Tier 2,Mobile,Paid Ads,14.0,1,752.0,16.9,9.2,3.8
+C10408,Male,36.0,Tier 2,Mobile,Paid Ads,74.0,1,909.0,7.4,8.7,4.0
+C10409,Female,35.0,Tier 1,Desktop,Social Media,34.0,19,22134.0,14.5,0.0,4.3
+C10410,Female,40.0,Tier 3,Mobile,Organic,101.0,5,3524.0,34.2,7.5,4.9
+C10411,Female,39.0,Tier 2,Mobile,Referral,63.0,8,7728.0,50.6,4.0,4.4
+C10412,Female,42.0,Tier 2,Tablet,Email,139.0,6,4949.0,51.2,0.9,4.6
+C10413,Male,32.0,Tier 1,Desktop,Social Media,10.0,26,19901.0,46.4,16.6,4.9
+C10414,Female,35.0,Tier 1,Desktop,Social Media,101.0,2,1369.0,21.7,11.0,4.3
+C10415,Female,37.0,Tier 3,Mobile,Paid Ads,34.0,29,32608.0,35.4,7.8,4.0
+C10416,Male,33.0,Tier 2,Mobile,Paid Ads,11.0,10,35513.0,29.2,4.6,4.6
+C10417,Male,28.0,Tier 3,Tablet,Organic,15.0,21,22938.0,31.4,9.8,4.6
+C10418,Female,29.0,Tier 3,Desktop,Social Media,64.0,2,1442.0,71.7,13.9,4.4
+C10419,Female,25.0,Tier 1,Mobile,Organic,39.0,7,23571.0,3.3,3.0,3.1
+C10420,Female,36.0,Tier 2,Mobile,Referral,45.0,5,3764.0,30.8,8.0,3.5
+C10421,Male,31.0,Tier 2,Mobile,Paid Ads,289.0,8,4852.0,56.8,13.2,3.8
+C10422,Male,26.0,Tier 2,Mobile,Paid Ads,22.0,17,16248.0,8.6,0.0,4.5
+C10423,Female,26.0,Tier 1,Desktop,Paid Ads,18.0,19,25141.0,23.4,7.7,4.0
+C10424,Female,21.0,Tier 1,Mobile,Email,7.0,18,16846.0,25.5,5.4,4.7
+C10425,Female,,Tier 2,Mobile,Organic,166.0,9,10698.0,31.0,7.2,4.8
+C10426,Female,33.0,Tier 2,Mobile,Organic,121.0,10,5923.0,6.3,5.0,4.7
+C10427,Female,24.0,Tier 2,Mobile,Organic,26.0,7,20690.0,45.7,8.8,4.7
+C10428,Female,39.0,Tier 1,Mobile,Social Media,51.0,3,1761.0,47.0,19.5,3.4
+C10429,Female,27.0,Tier 1,Mobile,Email,14.0,15,19658.0,44.2,6.1,4.3
+C10430,Female,19.0,Tier 3,Mobile,Organic,42.0,11,8109.0,19.3,9.8,3.6
+C10431,Female,41.0,Tier 1,Tablet,Email,72.0,2,2553.0,36.6,20.0,3.0
+C10432,Male,27.0,Tier 1,Mobile,Organic,104.0,6,3080.0,18.8,4.7,3.8
+C10433,Male,28.0,Tier 2,Mobile,Social Media,213.0,3,4316.0,29.0,18.9,4.8
+C10434,Female,32.0,Tier 1,Mobile,Organic,94.0,5,1205.0,73.8,8.0,4.3
+C10435,Female,42.0,Tier 2,Mobile,Paid Ads,5.0,26,36484.0,36.7,18.7,5.0
+C10436,Female,32.0,Tier 1,Mobile,Social Media,42.0,6,22267.0,13.6,12.5,4.1
+C10437,Male,21.0,Tier 3,Mobile,Paid Ads,25.0,12,13176.0,38.2,9.8,5.0
+C10438,Female,37.0,Tier 3,Mobile,Organic,216.0,5,2222.0,10.7,7.6,4.1
+C10439,Male,,Tier 3,Mobile,Referral,60.0,4,3252.0,13.4,4.3,4.0
+C10440,Female,49.0,Tier 2,Mobile,Email,166.0,5,4940.0,16.3,8.5,3.2
+C10441,Female,32.0,Tier 1,Mobile,Paid Ads,83.0,4,2990.0,27.0,13.4,4.7
+C10442,Female,18.0,Tier 2,Mobile,Social Media,16.0,10,12193.0,51.9,7.9,3.7
+C10443,Female,35.0,Tier 3,Mobile,Referral,70.0,5,5451.0,45.4,6.1,3.6
+C10444,Male,50.0,Tier 2,Mobile,Organic,1.0,4,14767.0,44.4,6.5,4.8
+C10445,Male,46.0,Tier 2,Mobile,Referral,25.0,13,41295.0,15.2,14.0,4.7
+C10446,Female,48.0,Tier 2,Mobile,Organic,90.0,7,6797.0,25.3,15.4,4.7
+C10447,Female,23.0,Tier 2,Mobile,Referral,62.0,1,1042.0,39.9,4.0,3.8
+C10448,Female,40.0,Tier 2,Mobile,Organic,273.0,8,5889.0,23.7,4.0,4.0
+C10449,Male,26.0,Tier 1,Tablet,Organic,22.0,27,40222.0,30.0,10.3,4.0
+C10450,Male,34.0,Tier 2,Tablet,Paid Ads,147.0,5,6121.0,42.9,17.2,4.5
+C10451,Male,21.0,Tier 2,Tablet,Paid Ads,16.0,15,18055.0,28.7,14.9,4.9
+C10452,Male,26.0,Tier 1,Mobile,Referral,87.0,5,4524.0,39.1,0.5,4.2
+C10453,Male,26.0,Tier 3,Mobile,Email,62.0,8,4999.0,63.7,6.4,5.0
+C10454,Female,40.0,Tier 2,Mobile,Organic,9.0,22,29034.0,31.9,2.4,4.5
+C10455,Female,39.0,Tier 1,Mobile,Organic,1.0,14,8268.0,56.2,6.4,3.9
+C10456,Male,34.0,Tier 3,Mobile,Paid Ads,25.0,8,25847.0,45.1,17.6,4.5
+C10457,Male,20.0,Tier 2,Mobile,Paid Ads,90.0,4,3631.0,8.6,0.0,5.0
+C10458,Male,29.0,Tier 2,Mobile,Paid Ads,10.0,3,3128.0,15.2,0.0,5.0
+C10459,Female,25.0,Tier 1,Mobile,Referral,49.0,5,5555.0,20.0,3.0,4.7
+C10460,Male,40.0,Tier 3,Mobile,Referral,224.0,2,2393.0,19.6,9.7,4.0
+C10461,Female,43.0,Tier 1,Desktop,Organic,135.0,10,13072.0,33.4,11.7,3.9
+C10462,Female,42.0,Tier 2,Mobile,Paid Ads,18.0,23,24098.0,46.1,10.6,4.3
+C10463,Male,25.0,Tier 1,Desktop,Social Media,90.0,4,3636.0,57.6,15.1,5.0
+C10464,Female,18.0,Tier 2,Mobile,Paid Ads,19.0,1,715.0,40.5,0.0,4.3
+C10465,Female,18.0,Tier 2,Mobile,Organic,128.0,3,1354.0,27.0,15.1,4.3
+C10466,Male,45.0,Tier 2,Mobile,Paid Ads,244.0,11,15704.0,0.0,6.1,4.0
+C10467,Male,28.0,Tier 2,Mobile,Paid Ads,102.0,8,11413.0,36.3,12.4,3.8
+C10468,Female,25.0,Tier 3,Mobile,Organic,56.0,5,1740.0,35.5,0.1,3.9
+C10469,Female,47.0,Tier 2,Mobile,Referral,18.0,16,18399.0,38.3,8.0,4.1
+C10470,Female,43.0,Tier 1,Mobile,Paid Ads,106.0,8,10459.0,72.9,9.4,5.0
+C10471,Female,32.0,Tier 3,Mobile,Social Media,6.0,1,253.0,57.3,14.9,3.9
+C10472,Male,29.0,Tier 2,Mobile,Paid Ads,10.0,1,435.0,49.1,0.0,4.0
+C10473,Female,31.0,Tier 3,Desktop,Referral,20.0,19,15790.0,17.7,8.2,3.5
+C10474,Female,34.0,Tier 3,Mobile,Organic,9.0,28,35021.0,25.8,1.5,4.4
+C10475,Male,46.0,Tier 3,Mobile,Organic,23.0,14,37623.0,33.3,11.0,4.8
+C10476,Female,36.0,Tier 2,Mobile,Paid Ads,12.0,2,1518.0,21.0,12.7,5.0
+C10477,Female,39.0,Tier 2,Mobile,Paid Ads,15.0,1,1053.0,44.0,15.7,4.1
+C10478,Female,43.0,Tier 1,Mobile,Organic,233.0,1,1357.0,41.4,4.8,4.3
+C10479,Male,21.0,Tier 2,Mobile,Referral,17.0,4,5230.0,15.4,13.6,3.9
+C10480,Male,39.0,Tier 2,Desktop,Organic,9.0,1,572.0,56.5,16.2,4.3
+C10481,Female,29.0,Tier 2,Mobile,Organic,20.0,1,1239.0,36.8,0.0,4.2
+C10482,Female,18.0,Tier 3,Mobile,Paid Ads,24.0,7,21643.0,3.9,11.7,4.0
+C10483,Female,18.0,Tier 1,Mobile,Referral,139.0,9,10978.0,34.1,13.8,4.1
+C10484,Female,23.0,Tier 1,Desktop,Referral,1.0,2,1282.0,40.1,6.4,4.3
+C10485,Male,37.0,Tier 2,Desktop,Social Media,28.0,14,21015.0,52.5,0.7,3.8
+C10486,Male,33.0,Tier 1,Desktop,Social Media,12.0,1,697.0,28.9,13.7,3.9
+C10487,Male,34.0,Tier 1,Mobile,Social Media,6.0,1,928.0,49.9,0.8,5.0
+C10488,Male,50.0,Tier 1,Mobile,Social Media,7.0,3,9703.0,38.4,6.9,5.0
+C10489,Male,21.0,Tier 3,Mobile,Organic,92.0,4,2909.0,11.3,7.8,3.3
+C10490,Female,32.0,Tier 2,Desktop,Social Media,148.0,12,12203.0,9.5,12.3,3.2
+C10491,Male,35.0,Tier 1,Mobile,Referral,77.0,1,687.0,55.2,4.2,3.4
+C10492,Male,25.0,Tier 1,Mobile,Paid Ads,213.0,3,3817.0,56.5,3.9,3.9
+C10493,Female,32.0,Tier 2,Mobile,Social Media,128.0,5,4121.0,40.8,8.6,4.5
+C10494,Male,18.0,Tier 1,Mobile,Paid Ads,13.0,1,819.0,61.9,14.0,4.4
+C10495,Male,45.0,Tier 2,Mobile,Paid Ads,63.0,4,3885.0,54.0,21.7,4.1
+C10496,Female,26.0,Tier 2,Mobile,Organic,214.0,6,5225.0,47.3,0.0,4.3
+C10497,Male,,Tier 1,Mobile,Social Media,18.0,2,1616.0,18.6,9.9,3.6
+C10498,Female,32.0,Tier 2,Desktop,Referral,206.0,11,6577.0,66.2,1.5,3.9
+C10499,Female,41.0,Tier 1,Mobile,Organic,18.0,1,965.0,,14.1,4.0
+C10500,Male,32.0,Tier 1,Desktop,Paid Ads,295.0,7,7358.0,28.1,2.4,3.0
+C10305,Female,37.0,Tier 2,Tablet,Social Media,84.0,1,1316.0,34.1,6.9,4.7
+C10341,Male,28.0,Tier 1,Desktop,Paid Ads,9.0,30,35477.0,47.9,0.0,4.2
+C10048,Female,18.0,Tier 2,Mobile,Social Media,14.0,1,1041.0,42.8,0.0,4.0
+C10068,Male,38.0,Tier 2,Mobile,Social Media,22.0,1,769.0,11.5,3.8,3.3
+C10480,Male,39.0,Tier 2,Desktop,Organic,9.0,1,572.0,56.5,16.2,4.3
+C10486,Male,33.0,Tier 1,Desktop,Social Media,12.0,1,697.0,28.9,13.7,3.9
+C10311,Female,37.0,Tier 1,Mobile,Organic,30.0,1,1278.0,39.5,8.8,4.5
+C10032,Male,36.0,Tier 3,Mobile,Social Media,76.0,2,2368.0,34.8,5.5,4.5

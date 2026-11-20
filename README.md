@@ -62,4 +62,4 @@ jupyter notebook notebooks/ecommerce_customer_segmentation.ipynb
 Python 3 · pandas · NumPy · matplotlib · seaborn · Jupyter Notebook · Git and GitHub
 
 ## Author
-Your Name – B.Tech 1st Year, ABES (replace with your details)
+Hardev Sahai
